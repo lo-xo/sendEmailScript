@@ -41,7 +41,7 @@ if __name__ == '__main__':
 	if len(sys.argv) != 4:	
 		print "Parameter invalid"
 	else:
-    toaddrs=sys.argv[1]
+    		toaddrs=sys.argv[1]
 		subject=sys.argv[2]
 		content=sys.argv[3]
 		sendAnEmail(subject, content)
