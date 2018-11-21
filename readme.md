@@ -1,1 +1,1 @@
-This is a simple script, which is usefule for send SMTP emai.
+This is a simple script, which is useful for send SMTP emai.
